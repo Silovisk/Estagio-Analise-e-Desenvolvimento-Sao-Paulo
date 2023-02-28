@@ -26,7 +26,9 @@ IMPORTANTE:
 	Outros – R$19.849,53
 
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
- 
+
+
+
 5) Escreva um programa que inverta os caracteres de um string.
 
 IMPORTANTE:
